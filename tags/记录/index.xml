@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>记录 on logxin</title>
+    <link>http://localhost:1313/tags/%E8%AE%B0%E5%BD%95/</link>
+    <description>Recent content in 记录 on logxin</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <copyright>©2020 my name.</copyright>
+    <lastBuildDate>Tue, 08 Jul 2025 21:09:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小组件、Flowmo 和我重新找回的记录欲望</title>
+      <link>http://localhost:1313/posts/helloworld/</link>
+      <pubDate>Tue, 08 Jul 2025 21:09:04 +0800</pubDate>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;写于一个突然想记录的夜晚&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2025年某个晚上&#34;&gt;2025年某个晚上&lt;/h2&gt;
+&lt;p&gt;我心情挺好，不知道为啥，鬼使神差点开了 iPhone 桌面上的一个小组件。&lt;/p&gt;
+&lt;p&gt;那个叫 &lt;strong&gt;Flowmo&lt;/strong&gt; 的笔记软件我不是没听过，早就装在手机上吃灰，几次点进去也没觉得有什么特别的。可那天晚上，不知道为啥，我就那么点了一下。&lt;/p&gt;
+&lt;p&gt;点开那一刻，我只想说一句话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原来不是我懒得记录，而是工具太反人性了。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;01我一直以为自己不够自律其实只是流程太复杂&#34;&gt;01｜我一直以为自己不够自律，其实只是流程太复杂&lt;/h2&gt;
+&lt;p&gt;我一直是个重度 Notion 用户，没日没夜搞知识管理，模块一层层往下套，搞得跟公司 Wiki 一样专业。&lt;/p&gt;
+&lt;p&gt;但就是一个问题：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;想法永远来得快，记录永远来得慢。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;每天 10 个灵感，最后真正能写下来的可能就 1 个，还是因为某个话题实在憋得慌，不吐不快。&lt;/p&gt;
+&lt;p&gt;Notion 的问题不是它不好，而是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;打开 App 要一步；&lt;/li&gt;
+&lt;li&gt;点页面再一步；&lt;/li&gt;
+&lt;li&gt;页面打开后，找到输入位置又得滑一下；&lt;/li&gt;
+&lt;li&gt;想写一段长文，还得认真组织语言，甚至要排版美化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;就这四五步下来，我早忘了刚才脑子里闪现的那个点是什么了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这不是记录，这是劝退。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;02直到我点开了-flowmo-的小组件&#34;&gt;02｜直到我点开了 Flowmo 的小组件&lt;/h2&gt;
+&lt;p&gt;那个组件界面很简单，写着一句：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What&amp;rsquo;s on your mind?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;还配了几个傻乎乎的小表情，像是在真心实意地问你：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“嘿，你是不是刚才突然想到了什么？”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;我真的被它这句问话唤醒了。&lt;/p&gt;
+&lt;p&gt;那一瞬间，我突然想到了很多事：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;那些没写完的想法；&lt;/li&gt;
+&lt;li&gt;那些曾经说要坚持写日记却再没打开的页面；&lt;/li&gt;
+&lt;li&gt;那些在脑中浮现五分钟就烟消云散的句子。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然后我按下了语音输入按钮，说了第一句话。&lt;/p&gt;
+&lt;p&gt;那一刻我意识到：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原来不是我没想法，而是没人听我说。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;03设计得越人性记录才越像本能&#34;&gt;03｜设计得越人性，记录才越像本能&lt;/h2&gt;
+&lt;p&gt;这就是 Flowmo 和 Notion 最大的区别：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Notion&lt;/strong&gt; 是一个图书馆，要分类、归档、建立结构；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flowmo&lt;/strong&gt; 是一个速写本，一个可以随手扔在沙发上的本子，一有灵感就写上去，不在乎丑、不在乎对。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;再加上语音输入的加持，我的记录欲望彻底被点燃。&lt;/p&gt;
+&lt;p&gt;就好比你原来需要爬五层楼去楼顶放风筝，现在突然发现家门口就有块空地，风一吹，线一放，就飞了。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
