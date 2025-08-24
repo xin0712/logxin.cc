@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.logxin.cc/posts/</loc>
+    <loc>https://logxin.cc/posts/</loc>
     <lastmod>2025-07-12T21:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.logxin.cc/tags/</loc>
+    <loc>https://logxin.cc/tags/</loc>
     <lastmod>2025-07-12T21:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.logxin.cc/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</loc>
+    <loc>https://logxin.cc/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</loc>
     <lastmod>2025-07-12T21:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.logxin.cc/posts/helloworld/</loc>
+    <loc>https://logxin.cc/posts/helloworld/</loc>
     <lastmod>2025-07-12T21:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.logxin.cc/</loc>
+    <loc>https://logxin.cc/</loc>
     <lastmod>2025-07-12T21:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.logxin.cc/posts/my-second-post/</loc>
+    <loc>https://logxin.cc/posts/my-second-post/</loc>
     <lastmod>2025-07-08T23:24:18+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.logxin.cc/categories/</loc>
+    <loc>https://logxin.cc/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
