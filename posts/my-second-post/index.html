@@ -77,7 +77,22 @@ User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml
 
 
 
-" />
+
+确保 robots.txt 正确
+
+
+在 GSC → URL 检查，输入新文章的链接，点击「请求编入索引」。
+
+
+这样比单纯等待更快。
+
+
+
+
+提升网站质量
+
+
+页面要能被正常访问（返回 200 状态码）。" />
 <meta name="keywords" content="网站开发,sitemap,Google Search Console,GSC," />
 
 
@@ -101,7 +116,12 @@ Google 是全球最主要的搜索引擎。
 这样 Google 可以快速发现你网站的所有页面，而不是逐个猜测。
 确保 robots.txt 正确
 在网站根目录创建 robots.txt，允许 Googlebot 抓取：
-User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml">
+User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml
+确保 robots.txt 正确
+在 GSC → URL 检查，输入新文章的链接，点击「请求编入索引」。
+这样比单纯等待更快。
+提升网站质量
+页面要能被正常访问（返回 200 状态码）。">
   <meta property="og:locale" content="zh_CN">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -134,7 +154,12 @@ Google 是全球最主要的搜索引擎。
 这样 Google 可以快速发现你网站的所有页面，而不是逐个猜测。
 确保 robots.txt 正确
 在网站根目录创建 robots.txt，允许 Googlebot 抓取：
-User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml">
+User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml
+确保 robots.txt 正确
+在 GSC → URL 检查，输入新文章的链接，点击「请求编入索引」。
+这样比单纯等待更快。
+提升网站质量
+页面要能被正常访问（返回 200 状态码）。">
 
 
 
@@ -157,10 +182,15 @@ Google 是全球最主要的搜索引擎。
 这样 Google 可以快速发现你网站的所有页面，而不是逐个猜测。
 确保 robots.txt 正确
 在网站根目录创建 robots.txt，允许 Googlebot 抓取：
-User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml">
+User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml
+确保 robots.txt 正确
+在 GSC → URL 检查，输入新文章的链接，点击「请求编入索引」。
+这样比单纯等待更快。
+提升网站质量
+页面要能被正常访问（返回 200 状态码）。">
   <meta itemprop="datePublished" content="2025-08-23T23:24:18+08:00">
   <meta itemprop="dateModified" content="2025-08-23T23:24:18+08:00">
-  <meta itemprop="wordCount" content="59">
+  <meta itemprop="wordCount" content="136">
   <meta itemprop="keywords" content="网站开发,Sitemap,Google Search Console,GSC">
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -342,19 +372,6 @@ User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml">
 
 
 
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YCWP7TEBVS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-YCWP7TEBVS');
-</script>
-
-
-
-
 </head>
 
 <body>
@@ -444,7 +461,74 @@ User-agent: * Allow: / Sitemap: https://yourdomain.com/sitemap.xml">
 </li>
 </ul>
 </li>
+<li>
+<p><strong>确保 robots.txt 正确</strong></p>
+<ul>
+<li>
+<p>在 GSC → <strong>URL 检查</strong>，输入新文章的链接，点击「请求编入索引」。</p>
+</li>
+<li>
+<p>这样比单纯等待更快。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>提升网站质量</strong></p>
+<ul>
+<li>
+<p>页面要能被正常访问（返回 200 状态码）。</p>
+</li>
+<li>
+<p>内容要有价值、避免空白或重复。</p>
+</li>
+<li>
+<p>速度尽量快，移动端体验友好。</p>
+</li>
+</ul>
+</li>
 </ol>
+<h3 id="可能遇到的问题">可能遇到的问题</h3>
+<ol>
+<li>
+<p><strong>站点地图无法读取</strong></p>
+<ul>
+<li>常见原因：URL 重定向、Cloudflare 防护拦截 Googlebot。</li>
+<li>解决办法：用 curl -A &ldquo;Googlebot&hellip;&rdquo; 测试是否能返回 200。</li>
+</ul>
+</li>
+<li>
+<p><strong>首页收录了，但文章没收录</strong></p>
+<ul>
+<li>新站常见现象，Google 需要时间建立信任。</li>
+<li>多写原创内容 + 主动提交 URL，可以加速收录。</li>
+</ul>
+</li>
+<li>
+<p><strong>内容收录慢</strong></p>
+<ul>
+<li>外链太少，Googlebot 不常光顾。</li>
+<li>可以在 GitHub、知乎、Twitter 等地方加一两个自然的反向链接。</li>
+</ul>
+</li>
+<li>
+<p><strong>被 robots.txt 或 noindex 阻止</strong></p>
+<ul>
+<li>检查页面 HTML <meta name="robots" content="noindex"> 是否误写。</li>
+<li>确认 robots.txt 没有写 Disallow: /。</li>
+</ul>
+</li>
+<li>
+<p><strong>域名以.cc结尾收抓取失败</strong></p>
+<ul>
+<li>可以尝试把</li>
+</ul>
+</li>
+</ol>
+<h3 id="by-the-way">By the way</h3>
+<p>让网站被 Google 收录，本质上是一个 <strong>搜索引擎可见性优化</strong>的过程。</p>
+<p>步骤其实不复杂：</p>
+<p>👉 验证网站 → 提交 sitemap → 设置 robots.txt → 主动提交 URL → 持续优化内容。</p>
+<p>只要坚持一段时间，你的网站就会逐渐被收录并出现在搜索结果中，为你带来自然流量和影响力。</p>
 
 </content>
 <p>
