@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://logxin.cc/posts/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E5%81%A5%E8%BA%AB/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/posts/outfit-log-day-1/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E7%A9%BF%E6%90%AD/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E9%80%9A%E5%8B%A4/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E9%85%8D%E8%89%B2/</loc>
+    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://logxin.cc/tags/giscus/</loc>
     <lastmod>2025-08-27T23:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -17,22 +57,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://logxin.cc/posts/</loc>
-    <lastmod>2025-08-27T23:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://logxin.cc/tags/</loc>
-    <lastmod>2025-08-27T23:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://logxin.cc/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-27T23:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://logxin.cc/</loc>
     <lastmod>2025-08-27T23:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
