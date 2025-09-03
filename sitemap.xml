@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://logxin.cc/posts/</loc>
-    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://logxin.cc/tags/</loc>
-    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90/</loc>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E5%A4%8D%E7%9B%98/</loc>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/</loc>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E7%9D%A1%E7%9C%A0/</loc>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/posts/sleep-adjustment-first-practice/</loc>
+    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,11 +48,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://logxin.cc/posts/outfit-log-day-1/</loc>
-    <lastmod>2025-08-28T00:20:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://logxin.cc/</loc>
     <lastmod>2025-08-28T00:20:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
