@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://logxin.cc/posts/</loc>
-    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://logxin.cc/tags/</loc>
-    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E4%B9%A6%E5%8D%95/</loc>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/posts/team-management-one-month-plan/</loc>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/</loc>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E6%B2%9F%E9%80%9A/</loc>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://logxin.cc/tags/%E9%A2%86%E5%AF%BC%E5%8A%9B/</loc>
+    <lastmod>2025-09-04T00:05:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,11 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://logxin.cc/tags/%E5%A4%8D%E7%9B%98/</loc>
-    <lastmod>2025-08-30T17:05:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://logxin.cc/</loc>
     <lastmod>2025-08-30T17:05:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
